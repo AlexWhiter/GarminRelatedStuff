@@ -1,0 +1,1 @@
+    <UpdateFile><PartNumber>%part_number%</PartNumber><Version><Major>0</Major><Minor>1</Minor></Version><Path>Garmin</Path><FileName>GUPDATE.GCD</FileName></UpdateFile>

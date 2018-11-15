@@ -1,0 +1,21 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html>
+<link rel="stylesheet" href="/main.css"/>
+<body>
+<table border="1" cellpadding="10">
+<tr><th rowspan="2">Model</th><th rowspan="2">Update Part Number</th><th colspan="2">Garmin Express</th><th colspan="2">WebUpdater</th></tr>
+<tr><th>Firmware Version</th><th>Link</th><th>Firmware Version</th><th>Links</th></tr>
+%update_lines%
+</table><br><a href="http://metrika.yandex.ru/stat/?id=5821864&amp;from=informer" target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/5821864/3_0_FFFFFFFF_FFFFFFFF_0_pageviews" style="width:88px; height:31px; border:0;"></a><div style="display:none;"><script type="text/javascript">
+                (function(w, c) {
+                    (w[c] = w[c] || []).push(function() {
+                        try {
+                            w.yaCounter5821864 = new Ya.Metrika(5821864);
+                             yaCounter5821864.clickmap(true);
+                             yaCounter5821864.trackLinks(true);
+                        
+                        } catch(e) { }
+                    });
+                })(window, 'yandex_metrika_callbacks');
+                </script></div><script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer></script><noscript><div><img src="//mc.yandex.ru/watch/5821864" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+</body>
+</html>

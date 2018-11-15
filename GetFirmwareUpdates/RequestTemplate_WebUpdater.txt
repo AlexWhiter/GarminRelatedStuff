@@ -1,0 +1,4 @@
+req=%3C?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Requests xmlns="http://www.garmin.com/xmlschemas/UnitSoftwareUpdate/v3">
+%update_files%
+</Requests>

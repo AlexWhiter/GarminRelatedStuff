@@ -1,0 +1,1 @@
+  <Request><PartNumber>%part_number%</PartNumber><TransferType>USB</TransferType><Region><RegionId>14</RegionId><Version><VersionMajor>0</VersionMajor><VersionMinor>1</VersionMinor><BuildType>Release</BuildType></Version></Region></Request>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Device xmlns="http://www.garmin.com/xmlschemas/GarminDevice/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GarminDevice/v2 http://www.garmin.com/xmlschemas/GarminDevicev2.xsd">
+  <Model>
+    <PartNumber>%part_number%</PartNumber>
+    <SoftwareVersion>1</SoftwareVersion>
+    <Description>-</Description>
+  </Model>
+  <Id>2345678910</Id>
+  <MassStorageMode>
+%update_files%
+  </MassStorageMode>
+</Device>
