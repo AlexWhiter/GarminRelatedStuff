@@ -4,8 +4,14 @@
 
   require 'basic_protobuf.php';
 
-  if (!isset($_GET['id'])) die('Required parameter missing.');
-  $part_numbers = array('006-B' . $_GET['id'] . '-00');
+  if (isset($_GET['id'])) {
+    $id = $_GET['id'];
+  } elseif (isset($argv[1])) {
+    $id = $argv[1];
+  } else {
+    die('Required parameter missing.');
+  }
+  $part_numbers = array('006-B' . $id . '-00');
 
   // 1. Generating the request to Garmin Express server.
 
